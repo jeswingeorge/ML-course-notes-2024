@@ -27,5 +27,5 @@ My notes and course materials.
     - [Introduction/Roadmap to NLP](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/1.Introduction.md)
     - [Tokenization in NLP](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/2.Tokenization.md)
     - [Stemming](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/3.Tokenization-Example-Using-NLTK.ipynb)
-    - Lemmatization
-    - Stopwords
+    - [Lemmatization](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/5.Lemmatization-Text-Preprocessing.ipynb)
+    - [Stopwords](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/6.Text-Preprocessing-Stopwords-With-NLTK.ipynb)

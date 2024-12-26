@@ -29,3 +29,8 @@ My notes and course materials.
     - [Stemming](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/3.Tokenization-Example-Using-NLTK.ipynb)
     - [Lemmatization](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/5.Lemmatization-Text-Preprocessing.ipynb)
     - [Stopwords](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/6.Text-Preprocessing-Stopwords-With-NLTK.ipynb)
+    - [Parts-of-Speecg Tagging](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/7.PartsOfSpeechTagging.ipynb)
+    - [Named Entity Recognition](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/8.NamedEntityRecognition.ipynb)
+    - [What Next??](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/9.what_next.md)
+    - [One-Hot-Encoding](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/10.One-Hot-Encoding.md)
+    - [Bag of Words](https://github.com/jeswingeorge/ML-course-notes-2024/blob/main/10-MLForNLP/11.Bag-of-words.md)
